@@ -1,6 +1,6 @@
 // 따숨코치 오프라인 저장 (서비스 워커)
 // index.html을 고쳐 올리면 아래 CACHE 이름의 숫자를 하나 올려 주세요. (예: ttasum-v2)
-const CACHE = "ttasum-v3";
+const CACHE = "ttasum-v4";
 const FILES = ["./", "./index.html", "./manifest.webmanifest", "./icons/icon-192.png", "./icons/icon-512.png",
                "./icons/maskable-512.png", "./icons/apple-touch-icon.png"];
 
